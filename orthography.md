@@ -15,5 +15,5 @@ mnbpdtgkvfszxwlj are the same
 |ʃ|s̈|
 |dz|z̈|
 |ts|c|
-|dʒ|d̈|
-|tʃ|ẗ|
+|dʒ|d̤|
+|tʃ|t̤|
