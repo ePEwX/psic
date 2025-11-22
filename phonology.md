@@ -8,4 +8,7 @@
 ||bilabial|alveolar|palatal|velar|
 |:-:|:-:|:-:|:-:|:-:|
 |nasal|m|n|||
-|stop|bp|dt||gk|
+|stop|b p|d t||g k|
+|fricative|v f|z s|ʃ|x|
+|liquid|w|l|j||
+|affr||dz ts|dʒ tʃ||
