@@ -1,5 +1,6 @@
 for now, only romanization is present
-|ː-ː|ː-ː|
+||romanization|
+|:-:|:-:|
 |i|i|
 |e|ÿ|
 |æ|ä|
@@ -8,8 +9,9 @@ for now, only romanization is present
 |u|u|
 |ɨ|y|
 
-mnbpdtgkvfszxwlj
-|ː-ː|ː-ː|
+mnbpdtgkvfszxwlj are the same
+||romanization|
+|:-:|:-:|
 |ʃ|s̈|
 |dz|z̈|
 |ts|c|
