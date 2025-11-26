@@ -30,3 +30,26 @@
 |privative|-nae|
 |accusative|-in|
 |nominative|-yn|
+
+# pronouns
+## 1st person
+|||
+|:-:|:-:|
+|accusative|jae|
+|nominative|ja|
+|genitive|xaj|
+|plural|-od- (in between consonant and vowel)|
+## 2nd person
+|||
+|:-:|:-:|
+|accusative|lae|
+|nominative|la|
+|genitive|gaj|
+|plural|-ud- (in between consonant and vowel)|
+## 3rd person
+|||
+|:-:|:-:|
+|accusative|kae|
+|nominative|ka|
+|genitive|waj|
+|plural|-yd- (in between consonant and vowel)|
