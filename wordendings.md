@@ -3,5 +3,5 @@
 |noun|-y|
 |adjective|-i|
 |adverb|-u|
-|preposition|ye|
+|preposition|-ye|
 |verb|see below|
