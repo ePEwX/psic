@@ -3,7 +3,7 @@
 |noun|-y|
 |adjective|-i|
 |adverb|-u|
-|preposition|-ye|
+|preposition|-yn|
 |verb|see below|
 
 # time (verb)
