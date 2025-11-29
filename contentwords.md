@@ -1,6 +1,16 @@
-|word root|meaning|
+|meaning|root|
 |:-:|:-:|
-|this|ky|
-|that|jy|
-|here|ku|
-|there|ju|
+|this|j-|
+|that|t-|
+|here|dj-|
+|there|d-|
+|all|cynd-|
+|many|usÿj-|
+|some|s̈jÿl-|
+|few|bawÿn-|
+|other|antoj-|
+|one|nit-|
+|two|jakw-|
+|three|zaw-|
+|four|dyl-|
+|five|gs̈un-|
