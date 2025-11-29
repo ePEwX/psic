@@ -2,6 +2,7 @@ number suffix is -ÿn
 
 |number|root|
 |:-:|:-:|
+|zero|zik-|
 |one|nit-|
 |two|jäkw-|
 |three|zaw-|
