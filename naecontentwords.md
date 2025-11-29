@@ -1,12 +1,12 @@
 |root|function|
 |:-:|:-:|
 |a|verb marker|
-|ye|patient marker|
+|ÿ|patient marker|
 |u|agent marker|
-|aep|ag,pa,ve connector|
-|gyew|and between sents|
+|äp|ag,pa,ve connector|
+|gÿw|and between sents|
 |got|placeholder q word|
 |ka|coplua (N N ka)|
-|xae|coplua (N A xae)|
+|xä|coplua (N A xä)|
 |ki|to be, etc|
-|zeae|because A, B (zeae A, B ki)|
+|z̈ä|because A, B (z̈ä A, B ki)|
