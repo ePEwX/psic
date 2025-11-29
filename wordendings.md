@@ -10,7 +10,7 @@
 ||ending|
 |:-:|:-:|
 |infinitive|-a|
-|present|-ye|
+|present|-ÿ|
 |past|-o|
 |future|-ae|
 |habitual|-at(y)|
@@ -27,7 +27,7 @@
 |:-:|:-:|
 |genitive|-j|
 |locative|-by|
-|privative|-nae|
+|privative|-nä|
 |accusative|-in|
 |nominative|-yn|
 
@@ -35,21 +35,21 @@
 ## 1st person
 |||
 |:-:|:-:|
-|accusative|jae|
+|accusative|jä|
 |nominative|ja|
 |genitive|xaj|
 |plural|-od- (in between consonant and vowel)|
 ## 2nd person
 |||
 |:-:|:-:|
-|accusative|lae|
+|accusative|lä|
 |nominative|la|
 |genitive|gaj|
 |plural|-ud- (in between consonant and vowel)|
 ## 3rd person
 |||
 |:-:|:-:|
-|accusative|kae|
+|accusative|kä|
 |nominative|ka|
 |genitive|waj|
 |plural|-yd- (in between consonant and vowel)|
