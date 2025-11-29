@@ -12,6 +12,7 @@ number suffix is -ÿn
 |eight|jat-|
 |nine|jys-|
 |next glyph|ä|
+
 e.g.:
 123456789 is
 nitäjäkwäzawädyläs̈unäz̈ykäcoläjatäjysÿn
