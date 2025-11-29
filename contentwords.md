@@ -9,8 +9,3 @@
 |some|s̈jÿl-|
 |few|bawÿn-|
 |other|antoj-|
-|one|nit-|
-|two|jakw-|
-|three|zaw-|
-|four|dyl-|
-|five|gs̈un-|
