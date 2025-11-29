@@ -2,9 +2,8 @@ for now, only romanization is present
 ||front|mid|back|
 |:-:|:-:|:-:|:-:|
 |close|i|y|u|
-||ÿ|||
-||ä||o|
-|open||a||
+|mid|ÿ||o|
+|open|ä|a||
 
 
 mnbpdtgkvfszxwlj are the same
