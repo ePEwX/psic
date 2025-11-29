@@ -1,13 +1,11 @@
 for now, only romanization is present
-||romanization|
-|:-:|:-:|
-|i|i|
-|e|ÿ|
-|æ|ä|
-|ɐ|a|
-|ɔ|o|
-|u|u|
-|ɨ|y|
+||front|mid|back|
+|:-:|:-:|:-:|:-:|
+|close|i|y|u|
+||ÿ|||
+||ä||o|
+|open||a||
+
 
 mnbpdtgkvfszxwlj are the same
 ||romanization|
