@@ -3,7 +3,8 @@
 |noun|-y|
 |adjective|-i|
 |adverb|-u|
-|preposition|-yn|
+|*preposition|-yn|
+|pronoun|-äm|
 |verb|see below|
 
 # time (verb)
@@ -12,7 +13,7 @@
 |infinitive|-a|
 |present|-ÿ|
 |past|-o|
-|future|-ae|
+|future|-ä|
 |habitual|-at(y)|
 
 # person (verb)
