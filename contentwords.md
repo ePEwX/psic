@@ -9,3 +9,15 @@
 |some|s̈jÿl-|
 |few|bawÿn-|
 |other|antoj-|
+|big|sudac-|
+|long|dwac-|
+|wide|sac-|
+|heavy|vyxac-|
+|small|bygoc-|
+|short|gjoc-|
+|narrow|boc-|
+|light|wujoc-|
+|female|nyj-|
+|male|nam-|
+|human|jun-|
+|child|bygj-|
