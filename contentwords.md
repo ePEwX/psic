@@ -21,3 +21,15 @@
 |male|nam-|
 |human|jun-|
 |child|bygj-|
+|love|olj-|
+|parent|maj-|
+|animal|njyk-|
+|water animal|fagas-|
+|air animal|s̈owad-|
+|akesi/pipi|emcip-|
+|tree|mit-|
+|collection|xoj-|
+|stick|bocm-|
+|fruit|plukw-|
+|seed|plak-|
+|leaf|bygmit-|
