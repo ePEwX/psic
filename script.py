@@ -17,55 +17,22 @@ icf1=0
 icf2=0
 us1=5
 us2=5
-def fcf2():
-	if us2==0:
-		for icf2 in range(0,7):
-			if icf2 != 7:
-				cf2=ub[icf2]
-				print(ci1+ci2+vo+cf1+cf2)
-			else:
-				cf2=""
-				print(ci1+ci2+vo+cf1+cf2)
-	elif us2==1:
-		for icf2 in range(0,5):
-			if icf2 != 5:
-				cf2=sb[icf2]
-				print(ci1+ci2+vo+cf1+cf2)
-			else:
-				cf2=""
-				print(ci1+ci2+vo+cf1+cf2)
-	else:
-		for icf2 in range(0,12):
-			if icf2 <= 6:
-				cf2=ub[icf2]
-				print(ci1+ci2+vo+cf1+cf2)
-			elif icf2 <= 11:
-				cf2=sb[icf2-7]
-				print(ci1+ci2+vo+cf1+cf2)
-			else:
-				cf2=""
-				print(ci1+ci2+vo+cf1+cf2)
-def fcf1():
-	for icf1 in range(0,6):
-		if icf1 <= 2:
-			cf1=ub[icf1]
-			us2=0
-			fcf2()
+def fci1():
+	for ici1 in range(0,6):
+		if ici1 <= 2:
+			ci1=ub[ici1]
+			us1=0
+			fci2()
 			return 0
-		elif icf1 <= 5:
-			cf1=sb[icf1-3]
-			us2=1
-			fcf2()
+		elif ici1 <= 5:
+			ci1=sb[ici1-3]
+			us1=1
+			fci2()
 			return 0
 		else:
-			cf1=""
-			fcf2()
+			ci1=""
+			fci2()
 			return 0
-def fvo():
-	for iv in range(0,6):
-		vo=v[iv]
-		fcf1()
-		return 0
 def fci2():
 	if us1==0:
 		for ici2 in range(0,7):
@@ -101,20 +68,53 @@ def fci2():
 				ci2=""
 				fvo()
 				return 0
-def fci1():
-	for ici1 in range(0,6):
-		if ici1 <= 2:
-			ci1=ub[ici1]
-			us1=0
-			fci2()
+def fvo():
+	for iv in range(0,6):
+		vo=v[iv]
+		fcf1()
+		return 0
+def fcf1():
+	for icf1 in range(0,6):
+		if icf1 <= 2:
+			cf1=ub[icf1]
+			us2=0
+			fcf2()
 			return 0
-		elif ici1 <= 5:
-			ci1=sb[ici1-3]
-			us1=1
-			fci2()
+		elif icf1 <= 5:
+			cf1=sb[icf1-3]
+			us2=1
+			fcf2()
 			return 0
 		else:
-			ci1=""
-			fci2()
+			cf1=""
+			fcf2()
 			return 0
+def fcf2():
+	if us2==0:
+		for icf2 in range(0,7):
+			if icf2 != 7:
+				cf2=ub[icf2]
+				print(ci1+ci2+vo+cf1+cf2)
+			else:
+				cf2=""
+				print(ci1+ci2+vo+cf1+cf2)
+	elif us2==1:
+		for icf2 in range(0,5):
+			if icf2 != 5:
+				cf2=sb[icf2]
+				print(ci1+ci2+vo+cf1+cf2)
+			else:
+				cf2=""
+				print(ci1+ci2+vo+cf1+cf2)
+	else:
+		for icf2 in range(0,12):
+			if icf2 <= 6:
+				cf2=ub[icf2]
+				print(ci1+ci2+vo+cf1+cf2)
+			elif icf2 <= 11:
+				cf2=sb[icf2-7]
+				print(ci1+ci2+vo+cf1+cf2)
+			else:
+				cf2=""
+				print(ci1+ci2+vo+cf1+cf2)
 fci1()
