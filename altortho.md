@@ -1,36 +1,28 @@
 # vowels
+2xX brick
 |vowels|color|
 |:-:|:-:|
 |i|red|
 |ye|orange|
 |ae|yellow|
 |a|green|
-|o|blue|
-|u|purple|
-|y|white|
+|o|cyan|
+|u|blue|
+|y|purple/pink|
 
 # consonant
+1xX brick
 |consonant|color|
 |:-:|:-:|
-|m|brown|
-|n|black|
-|b|blue|
-|p|light blue|
-|d|dark purple|
-|t|light purple|
-|g|green|
-|k|bright green|
-|v|dark pink|
-|f|bright pink|
-|z|orange|
-|s|bright light orange|
-|se|lilac|
-|x|light lilac|
-|w|medium blue|
-|l|medium lavender|
-|j|pink|
-
-# consonant2
-||color|
-|:-:|:-:|
-|ts|reddish orange|
+|null|black/none|
+|m|light red|
+|n|light yellow|
+|b|maroon|
+|p|red|
+|d|dark yellow|
+|t|yellow|
+|g|dark blue|
+|k|azure|
+|v|dark orange|
+|f|orange|
+|z||
