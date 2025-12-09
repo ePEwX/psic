@@ -13,4 +13,5 @@ cons = {""} | n | c | ua | sa | ub | sb
 cons1 = cons | set(j[0] + j[1] for i in (product(ua, ub), product(sa, sb)) for j in i)
 cons2 = cons | set(j[1] + j[0] for i in (product(ua, ub), product(sa, sb)) for j in i)
 syllables = set(''.join(i) for i in product(cons1, v, cons2))
-print(syllables)
+with open("syllables.md", "w") as file:
+  file.write(syllables)
