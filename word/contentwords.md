@@ -9,6 +9,7 @@
 |some|s̈jÿl-|
 |few|bawÿn-|
 |other|antoj-|
+|**size**|
 |big|sudac-|
 |long|dwac-|
 |wide|sac-|
@@ -17,12 +18,14 @@
 |short|gjoc-|
 |narrow|boc-|
 |light|wujoc-|
+|**people**|
 |female|nyj-|
 |male|nam-|
 |human|jun-|
 |child|bygj-|
 |love|olj-|
 |parent|maj-|
+|**animals and nature**|
 |animal|njyk-|
 |water animal|fagas-|
 |air animal|s̈owad-|
@@ -32,4 +35,17 @@
 |stick|bocm-|
 |fruit|plukw-|
 |seed|plak-|
-|leaf|bygmit-|
+|leaf|bygm-|
+|root|myjt-|
+|selo|kyl-|
+|flower|fuw-|
+|grass|owt-|
+|thick flexible|lins-|
+|meat|njak-|
+|blood|sjot-|
+|bone|njit-|
+|egg|byk-|
+|horn|njyjt-|
+|tail|ljyns-|
+|feather|njygm-|
+|**body parts**|71|
